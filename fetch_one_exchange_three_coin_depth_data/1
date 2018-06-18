@@ -1,0 +1,7 @@
+nohup: ignoring input
+Traceback (most recent call last):
+  File "/root/fetch_two_exchange_depth_data/fetch_data.py", line 8, in <module>
+    import config
+  File "/root/fetch_two_exchange_depth_data/config.py", line 20, in <module>
+    ['binance/huobi', 'neo/eth'],
+TypeError: list indices must be integers, not tuple
