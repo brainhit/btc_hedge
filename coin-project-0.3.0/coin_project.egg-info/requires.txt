@@ -1,0 +1,9 @@
+websocket-client
+requests
+redis
+certifi
+six
+sqlalchemy
+pymysql
+pycrypto
+commandr
