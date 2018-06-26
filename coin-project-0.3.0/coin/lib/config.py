@@ -4,12 +4,12 @@ from decimal import Decimal
 # 测试用
 
 # DB = 'btc_trade_test'  # 测试用
-# AES_KEY = '1234567890abcdefghigklmnopqrstuv'
+# AES_KEY = 'xxxx'
 
 
 # 线上用
 DB = 'btc_trade'  # 线上用
-AES_KEY = 'R7NXEKQrjHt@KpzTVv1k9Rm7OEtgt^eO'
+AES_KEY = 'xxxx'
 
 
 # 公用
